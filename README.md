@@ -8,7 +8,7 @@ In this project, I scraped data from two of my favorite subreddits, Shower Thoug
 
 * *Subreddit*: A public web forum with a niche focus, hosted by Reddit, where users discuss related concepts via posts and comments.
 
-* *Shower Thought:* A seemingly mundane detail about the world, that becomes weird and interesting when viewed from a slightly different perspective while in the shower. Examples:
+* *Shower Thought:* A seemingly mundane detail about the world, that becomes weird and interesting when viewed from a slightly different perspective while in the shower, such as:
   
   > If you're living without having studied anatomy or medicine you're actually using your body without reading its user manual.
   
@@ -16,7 +16,7 @@ In this project, I scraped data from two of my favorite subreddits, Shower Thoug
   
   > Moms and dads work hard to buy a nice house and send their kids to good schools so that their kids can get a good job, work hard to buy a nice house and send their kids to good schools, so that their grandchildren can get good jobs, buy nice houses and send their kids to good schools.
 
-* *Crazy Idea*: Unconventional, eccentric ideas of things. Examples:
+* *Crazy Idea*: Unconventional, eccentric ideas of things, such as:
 
   > Tinder but I instead of matching with people it just shows you how many people swiped left on you. No messages or anything
 
