@@ -34,4 +34,4 @@ As can be seen from these examples, the content of these subreddits is pretty si
 - Created 1-dimensional document embeddings using `Doc2Vec` from `gensim`
 - Tokenized and lemmatized words in each post based on their part of speech tag with `nltk`
 - Vectorized each post with `Count Vectorizer` and `Term Frequency–Inverse Document Frequency Vectorizer`
-
+- Classified posts using `Logistic Regression`, `Multinomial Naive Bayes`, `Gradient Boosting` and `Random Forest` algorithms, compared them based on their `accuracy` and `roc-auc score`
